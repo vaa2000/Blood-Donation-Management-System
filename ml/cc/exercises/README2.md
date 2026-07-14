@@ -113,7 +113,7 @@ No DMS/interior-sensing implementation reviewed uses **LiDAR** for the driver-fa
 - **Comms:** AUTOSAR SOME/IP Protocol Specification (AUTOSAR Standard 696); "The Ultimate Guide to AUTOSAR," https://www.acsiatech.com/the-ultimate-guide-to-autosar/ ; Elektrobit, "Automotive Ethernet Network," https://www.elektrobit.com/products/ecu/automotive-ethernet-automotive-networks/ ; LHP, "SOME/IP: Mastering the New Era of Vehicle Networks," https://www.lhpes.com/blog/some/ip-mastering-the-new-era-of-vehicle-networks ; Rumez et al., "Overview of Automotive SOAs," https://publikationen.bibliothek.kit.edu/1000130120/104022145
 - **NVIDIA reference stack:** Jetson Linux GMSL camera framework docs, https://docs.nvidia.com/jetson/archives/r38.4/DeveloperGuide/SD/CameraDevelopment/JetsonVirtualChannelWithGmslCameraFramework.html ; Jetson Software Architecture (VPI/TensorRT/DeepStream), https://docs.nvidia.com/jetson/l4t/Tegra%20Linux%20Driver%20Package%20Development%20Guide/overview.html
 
-## 0.6 Caveat (repeat, please read)
+## 0.6 Caveat
 No Tier-1 or DMS specialist publishes exact production CNN backbones/hyperparameters. Company sections below state *only what that company has itself disclosed* (product pages, patents, interviews — cited), and separately label anything reconstructed from the general research literature as **"industry-inferred pattern"**.
 
 ---
