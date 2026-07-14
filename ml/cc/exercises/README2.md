@@ -1,12 +1,12 @@
 # Driver Monitoring Systems (DMS) in ADAS
-# Per-Company Deep-Dive Architecture Document
+# Deep-Dive Architecture Document
 ### Hardware · Software · Computer-Vision Pipeline · Training/Testing/Deployment · Communication Stack · Patents · Papers · Open Source
 
 ---
 
 ## How to read this document
 
-For **every company** covered, this document answers the same five questions, in the same order, as requested:
+ **every company** document includes:
 
 1. Detailed architecture — hardware, software, computer vision (+ where this company sits in the common industry pattern).
 2. End-to-end CV pipeline — creation → training → deployment; concrete model families (CNN/YOLO/ViT/temporal) with references.
