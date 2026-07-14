@@ -4,9 +4,7 @@
 
 ---
 
-## How to read this document
-
- **every company** document includes:
+## This document includes **every company** analysis  :
 
 1. Detailed architecture — hardware, software, computer vision (+ where this company sits in the common industry pattern).
 2. End-to-end CV pipeline — creation → training → deployment; concrete model families (CNN/YOLO/ViT/temporal) with references.
